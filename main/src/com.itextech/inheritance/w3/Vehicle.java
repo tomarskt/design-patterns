@@ -1,4 +1,4 @@
-package com.kforce.inheritance.w3;
+package com.itextech.inheritance.w3;
 
 class Vehicle {
     protected String brand = "Ford";         // Vehicle attribute

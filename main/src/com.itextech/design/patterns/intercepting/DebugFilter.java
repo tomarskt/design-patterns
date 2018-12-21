@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.intercepting;
+package com.itextech.design.patterns.intercepting;
 
 public class DebugFilter implements Filter {
     public void execute(String request){

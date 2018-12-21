@@ -1,4 +1,4 @@
-package com.kforce.encapsulation.w3;
+package com.itextech.encapsulation.w3;
 
 public class Person {
     private String name; // private = restricted access

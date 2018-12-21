@@ -1,4 +1,4 @@
-package com.kforce.modifiers.w3;
+package com.itextech.modifiers.w3;
 
 // Code from filename: Person.java
 // abstract class

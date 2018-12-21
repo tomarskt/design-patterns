@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.businessdelegatepattern;
+package com.itextech.design.patterns.businessdelegatepattern;
 
 public class Client {
 

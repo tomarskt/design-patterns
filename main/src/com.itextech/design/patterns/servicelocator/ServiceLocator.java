@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.servicelocator;
+package com.itextech.design.patterns.servicelocator;
 
 public class ServiceLocator {
     private static Cache cache;

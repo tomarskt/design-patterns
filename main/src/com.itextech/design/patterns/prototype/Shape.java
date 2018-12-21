@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.prototype;
+package com.itextech.design.patterns.prototype;
 
 public abstract class Shape implements Cloneable {
 

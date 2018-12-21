@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.bridge;
+package com.itextech.design.patterns.bridge;
 
 public abstract class Shape {
     protected DrawAPI drawAPI;

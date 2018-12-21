@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.chain;
+package com.itextech.design.patterns.chain;
 
 public class FileLogger extends AbstractLogger {
 

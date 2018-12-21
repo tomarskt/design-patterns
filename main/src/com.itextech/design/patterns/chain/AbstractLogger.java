@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.chain;
+package com.itextech.design.patterns.chain;
 
 public abstract class AbstractLogger {
     public static int INFO = 1;

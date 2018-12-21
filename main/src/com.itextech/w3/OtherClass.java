@@ -1,4 +1,4 @@
-package com.kforce.w3;
+package com.itextech.w3;
 
 class OtherClass {
     public static void main(String[] args) {

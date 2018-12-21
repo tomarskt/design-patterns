@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.memento;
+package com.itextech.design.patterns.memento;
 
 public class Originator {
     private String state;

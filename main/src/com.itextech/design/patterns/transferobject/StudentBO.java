@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.transferobject;
+package com.itextech.design.patterns.transferobject;
 
 import java.util.ArrayList;
 import java.util.List;

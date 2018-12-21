@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.singleton;
+package com.itextech.design.patterns.singleton;
 
 public class SingleObject {
 

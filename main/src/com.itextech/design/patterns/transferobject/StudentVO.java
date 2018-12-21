@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.transferobject;
+package com.itextech.design.patterns.transferobject;
 
 public class StudentVO {
     private String name;

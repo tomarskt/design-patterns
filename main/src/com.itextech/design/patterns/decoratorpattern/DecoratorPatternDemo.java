@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.decoratorpattern;
+package com.itextech.design.patterns.decoratorpattern;
 
 public class DecoratorPatternDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.nullobject;
+package com.itextech.design.patterns.nullobject;
 
 public class CustomerFactory {
 

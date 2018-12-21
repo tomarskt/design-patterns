@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.servicelocator;
+package com.itextech.design.patterns.servicelocator;
 
 import java.util.ArrayList;
 import java.util.List;

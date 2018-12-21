@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.visitor;
+package com.itextech.design.patterns.visitor;
 
 public class Monitor  implements ComputerPart {
 

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.frontcontroller;
+package com.itextech.design.patterns.frontcontroller;
 
 public class Dispatcher {
     private StudentView studentView;

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.flyweight;
+package com.itextech.design.patterns.flyweight;
 
 import java.util.HashMap;
 

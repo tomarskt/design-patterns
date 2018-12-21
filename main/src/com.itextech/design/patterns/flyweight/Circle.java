@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.flyweight;
+package com.itextech.design.patterns.flyweight;
 
 public class Circle implements Shape {
     private String color;

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.memento;
+package com.itextech.design.patterns.memento;
 
 public class Memento {
     private String state;

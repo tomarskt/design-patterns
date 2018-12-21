@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.servicelocator;
+package com.itextech.design.patterns.servicelocator;
 
 public interface Service {
     public String getName();

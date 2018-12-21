@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.mvc;
+package com.itextech.design.patterns.mvc;
 
 public class StudentView {
     public void printStudentDetails(String studentName, String studentRollNo){

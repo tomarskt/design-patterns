@@ -1,4 +1,4 @@
-package com.kforce.hashmap;
+package com.itextech.hashmap;
 
 // Import the HashMap class
 import java.util.*;

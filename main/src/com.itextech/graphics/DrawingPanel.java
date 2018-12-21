@@ -1,4 +1,4 @@
-package com.kforce.graphics;
+package com.itextech.graphics;
 
 /**
  The DrawingPanel class provides a simple interface for drawing persistent

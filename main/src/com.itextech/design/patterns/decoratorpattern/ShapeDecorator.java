@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.decoratorpattern;
+package com.itextech.design.patterns.decoratorpattern;
 
 public abstract class ShapeDecorator implements Shape {
     protected Shape decoratedShape;

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.observer;
+package com.itextech.design.patterns.observer;
 
 public class BinaryObserver extends Observer{
 

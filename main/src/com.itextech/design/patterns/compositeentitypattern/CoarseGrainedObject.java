@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.compositeentitypattern;
+package com.itextech.design.patterns.compositeentitypattern;
 
 public class CoarseGrainedObject {
     DependentObject1 do1 = new DependentObject1();

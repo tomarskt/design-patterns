@@ -1,4 +1,4 @@
-package com.kforce.interfaces.w3;
+package com.itextech.interfaces.w3;
 
 interface FirstInterface {
     public void myMethod(); // interface method

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.composite;
+package com.itextech.design.patterns.composite;
 
 public class CompositePatternDemo {
     public static void main(String[] args) {

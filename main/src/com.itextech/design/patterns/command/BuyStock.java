@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.command;
+package com.itextech.design.patterns.command;
 
 public class BuyStock implements Order {
     private Stock abcStock;

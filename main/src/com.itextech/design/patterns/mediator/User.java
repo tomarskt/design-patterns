@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.mediator;
+package com.itextech.design.patterns.mediator;
 
 public class User {
     private String name;

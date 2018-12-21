@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.strategy;
+package com.itextech.design.patterns.strategy;
 
 public class OperationAdd implements Strategy{
     @Override

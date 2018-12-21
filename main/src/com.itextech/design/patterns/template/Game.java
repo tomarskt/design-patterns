@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.template;
+package com.itextech.design.patterns.template;
 
 public abstract class Game {
     abstract void initialize();

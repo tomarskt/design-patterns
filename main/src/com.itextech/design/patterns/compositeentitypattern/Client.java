@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.compositeentitypattern;
+package com.itextech.design.patterns.compositeentitypattern;
 
 public class Client {
     private CompositeEntity compositeEntity = new CompositeEntity();

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.proxy;
+package com.itextech.design.patterns.proxy;
 
 public class RealImage implements Image {
 

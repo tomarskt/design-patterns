@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.criteria;
+package com.itextech.design.patterns.criteria;
 
 public class Person {
 

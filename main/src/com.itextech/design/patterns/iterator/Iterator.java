@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.iterator;
+package com.itextech.design.patterns.iterator;
 
 public interface Iterator {
     public boolean hasNext();

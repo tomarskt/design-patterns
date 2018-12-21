@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.adpaterpattern;
+package com.itextech.design.patterns.adpaterpattern;
 
 public class AudioPlayer implements MediaPlayer {
     MediaAdapter mediaAdapter;

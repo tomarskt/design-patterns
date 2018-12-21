@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.template;
+package com.itextech.design.patterns.template;
 
 public class Cricket extends Game {
 

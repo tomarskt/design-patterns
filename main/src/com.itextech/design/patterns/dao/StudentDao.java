@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.dao;
+package com.itextech.design.patterns.dao;
 
 import java.util.List;
 

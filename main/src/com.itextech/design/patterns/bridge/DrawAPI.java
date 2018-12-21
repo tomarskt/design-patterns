@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.bridge;
+package com.itextech.design.patterns.bridge;
 
 public interface DrawAPI {
     public void drawCircle(int radius, int x, int y);

@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.nullobject;
+package com.itextech.design.patterns.nullobject;
 
 public class NullPatternDemo {
     public static void main(String[] args) {

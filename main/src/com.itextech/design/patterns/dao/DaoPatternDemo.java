@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.dao;
+package com.itextech.design.patterns.dao;
 
 public class DaoPatternDemo {
     public static void main(String[] args) {

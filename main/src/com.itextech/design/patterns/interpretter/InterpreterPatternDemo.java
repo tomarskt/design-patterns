@@ -1,4 +1,4 @@
-package com.kforce.design.patterns.interpretter;
+package com.itextech.design.patterns.interpretter;
 
 public class InterpreterPatternDemo {
     //Rule: Robert and John are male
